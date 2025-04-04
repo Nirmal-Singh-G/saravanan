@@ -31,5 +31,10 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void thanthoori() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
