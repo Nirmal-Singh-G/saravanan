@@ -6,5 +6,21 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void veg() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void nonVeg() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void bothv() {
+		// TODO Auto-generated method stub
+
+	}
+	
 
 }
